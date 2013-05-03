@@ -1,0 +1,9 @@
+name: EventManager
+version: 1.1.4
+author: AquaXV-Modification, Wilwark-Original code
+main: com.minecraftserver.eventmanager.EventManager
+description: Event Handler for MinecraftServer.com.
+commands:
+  event:
+    description: 'Allows usage of EventManager commands'
+    usage: 'Usage: /event start|join'
